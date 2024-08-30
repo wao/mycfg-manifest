@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/" name="github" />
+  <project remote="github" name="wao/bashenv" path="bashenv" revision="master" />
+  <project remote="github" name="wao/vimrc" path="vimrc" revision="master" />
+</manifest>
