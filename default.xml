@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com/" name="github" />
   <project remote="github" name="wao/bashenv" path="bashenv" revision="master" />
-  <project remote="github" name="wao/URxvt-colorscheme" path=" tools/URxvt-colorscheme" revision="master" />
+  <project remote="github" name="wao/URxvt-colorscheme" path="tools/URxvt-colorscheme" revision="master" />
   <project remote="github" name="wao/vimrc" path="vimrc" revision="master" />
   <project remote="github" name="justinmk/molokai.git" path="vimrc/repo/molokai" revision="master" />
   <project remote="github" name="junegunn/fzf.vim.git" path="vimrc/repo/fzf.vim" revision="master" />
