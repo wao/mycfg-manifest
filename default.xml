@@ -25,7 +25,6 @@
 <project remote="github" name="aklt/plantuml-syntax.git" path="repo/plantuml-syntax" revision="master" />
 <project remote="github" name="tyru/open-browser.vim.git" path="repo/open-browser.vim" revision="master" />
 <project remote="github" name="udalov/kotlin-vim" path="repo/kotlin-vim" revision="master" />
-<project remote="github" name="udalov/kotlin-vim" path="repo/kotlin-vim" revision="master" />
 <project remote="github" name="liuchengxu/vista.vim.git" path="repo/vista.vim" revision="master" />
 <project remote="github" name="simrat39/symbols-outline.nvim.git" path="repo/symbols-outline.nvim" revision="master" />
 <project remote="github" name="chentoast/marks.nvim.git" path="repo/marks.nvim" revision="master" />
