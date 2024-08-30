@@ -3,7 +3,7 @@
 import sys
 from pathlib import Path
 
-lines = Path("gm").read_text().strip().split("\n")
+lines = Path(sys.argv[1]).read_text().strip().split("\n")
 
 while lines:
     (s, p, u, *lines) = lines
@@ -17,4 +17,4 @@ while lines:
         print("unknown url " + url)
         exit(-1)
 
-    print(f'<project remote="github" name="{url}" path="{path}" remote="github" revision="master" />')
+    print(f'<project remote="github" name="{url}" path="{path}" revision="master" />')
