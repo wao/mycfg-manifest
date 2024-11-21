@@ -4,6 +4,7 @@
   <project remote="github" name="wao/bashenv" path="bashenv" revision="master" />
   <project remote="github" name="wao/URxvt-colorscheme" path="tools/URxvt-colorscheme" revision="master" />
   <project remote="github" name="asdf-vm/asdf" path="tools/asdf" revision="master" />
+  <project remote="github" name="wao/ubuntu-install-scripts.git" path="tools/ubuntu-install-scripts" revision="master" />
   <project remote="github" name="wao/vimrc" path="vimrc" revision="master" />
   <project remote="github" name="justinmk/molokai.git" path="vimrc/repo/molokai" revision="master" />
   <project remote="github" name="junegunn/fzf.vim.git" path="vimrc/repo/fzf.vim" revision="master" />
@@ -32,5 +33,4 @@
   <project remote="github" name="chentoast/marks.nvim.git" path="vimrc/repo/marks.nvim" revision="master" />
   <project remote="github" name="NLKNguyen/papercolor-theme.git" path="vimrc/repo/papercolor-theme" revision="master" />
   <project remote="github" name="ludovicchabant/vim-gutentags.git" path="vimrc/repo/vim-gutentags" revision="master" />
-
 </manifest>
