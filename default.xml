@@ -33,4 +33,5 @@
   <project remote="github" name="chentoast/marks.nvim.git" path="vimrc/repo/marks.nvim" revision="master" />
   <project remote="github" name="NLKNguyen/papercolor-theme.git" path="vimrc/repo/papercolor-theme" revision="master" />
   <project remote="github" name="ludovicchabant/vim-gutentags.git" path="vimrc/repo/vim-gutentags" revision="master" />
+  <project remote="github" name="vimwiki/vimwiki.git" path="vimrc/repo/vimwiki" revision="master" />
 </manifest>
